@@ -1,4 +1,3 @@
-
 def enter_song song
 
   fill_in "song[artist]", :with => song[:artist]
